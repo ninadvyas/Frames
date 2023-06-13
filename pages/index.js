@@ -14,7 +14,7 @@ export default function Home() {
       </Head>
       <Hero heading="Hey I'm Ninad" message='I like to capture frames of life and of course nature as well.' />
 
-      <Photos />
+      <Photos/>
     </div>
   );
 }
